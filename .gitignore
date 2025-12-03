@@ -1,0 +1,50 @@
+# -----------------------
+# Python 관련
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 가상환경(Virtual Environment)
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# -----------------------
+# 데이터/이미지/결과 파일
+# -----------------------
+
+# 전체 데이터 폴더 (필요에 따라 조정)
+data/
+dataset/
+
+# 이미지 파일 (사진)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+
+# 넘파이 / 학습 결과물
+*.npz
+*.npy
+*.pt
+*.pth
+
+# 로그 / 임시 파일
+logs/
+*.log
+
+# OS / 에디터에서 생기는 잡파일
+.DS_Store
+Thumbs.db
+
+# VSCode 설정 (필요하면 남기고, 아니면 주석 처리)
+.vscode/
