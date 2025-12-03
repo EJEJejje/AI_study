@@ -14,7 +14,8 @@ env/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-
+data/cifar-100-python/
+data/cifar-100-python.tar.gz
 # -----------------------
 # 데이터/이미지/결과 파일
 # -----------------------
